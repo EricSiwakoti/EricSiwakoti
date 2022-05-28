@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vanilla Javascript
 - 📫 How to reach me : 
        - Mail : bonderic44@gmail.com
-       - Twitter : @EricBond201680
+       - Twitter : @EricSiwakoti
 <!-- 💞️ I’m looking to collaborate on ... -->
 <!---
 EricSiwakoti/EricSiwakoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
