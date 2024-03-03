@@ -5,8 +5,10 @@
 
 ## Connect With Me :
 
-[![Gmail](https://img.shields.io/badge/Gmail-red.svg?logo=gmail&logoColor=white)](mailto:bonderic44@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-siwakoti) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EricSiwakoti)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square)](mailto:bonderic44@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/eric-siwakoti/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/EricSiwakoti)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=flat-square)](https://ericsiwakoti.medium.com/)
 
 ## Technologies And Tools :
 
@@ -26,9 +28,9 @@
 
 ## Analytics :
 
-![](https://github-readme-stats.vercel.app/api?username=ericsiwakoti&theme=dark&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_bust=1)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsiwakoti&theme=dark&hide_title=false&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ericsiwakoti&theme=dark&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+![Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsiwakoti&theme=dark&hide_title=false&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## Visitor Counter :
 
-![](https://profile-counter.glitch.me/{ericsiwakoti}/count.svg)
+![Counter](https://profile-counter.glitch.me/{ericsiwakoti}/count.svg)
