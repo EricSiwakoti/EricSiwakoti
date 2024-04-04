@@ -33,4 +33,4 @@
 
 ## Visitor Counter :
 
-![Counter](https://profile-counter.glitch.me/{ericsiwakoti}/count.svg)
+![Counter](https://komarev.com/ghpvc/?username=ericsiwakoti&style=for-the-badge&color=yellowgreen)
