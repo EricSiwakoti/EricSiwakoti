@@ -1,7 +1,7 @@
 <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXB3aHpicjA3ODY4cjhwOHRzcnl6dTczY2swZGVyODU3MXo2b2dwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VB0AIV9wwitzN1UICB/giphy.gif" alt="Markdown Header" style="width: 100%; height:30vh"></a></p>
 
 <h1 align="center">Hey 👋, I'm Eric Siwakoti.</h1>
-<p align="center"><i>FullStack Developer(MERN) | TypeScript | DevOps</i></p>
+<p align="center"><i>FullStack Developer(P/MERN) | TypeScript | DevOps | AWS</i></p>
 
 ## Connect With Me :
 
