@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/EricSiwakoti">
-    <img src="https://skillicons.dev/icons?i=bash,express,firebase,git,graphql,js,jest,lua,md,mongodb,neovim,nextjs,nodejs,postgres,postman,powershell,prisma,react,redis,redux,tailwind,ts,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,docker,express,firebase,git,grafana,graphql,js,jest,linux,lua,md,mongodb,neovim,nextjs,nodejs,postgres,postman,powershell,prisma,prometheus,react,redis,redux,tailwind,ts,vercel,vscode" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/EricSiwakoti">
-    <img src="https://skillicons.dev/icons?i=aws,docker,grafana,go,kafka,kubernetes,nginx,prometheus,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=aws,go,kafka,kubernetes,nginx,rabbitmq" />
   </a>
 </p>
 
